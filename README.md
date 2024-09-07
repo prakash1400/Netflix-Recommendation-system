@@ -1,2 +1,2 @@
-Netflix Movie Recommender System
+
 A content-based movie recommendation system using a dataset of 17,000+ movies and 500,000+ ratings. The system utilizes TF-IDF and Cosine Similarity to suggest movies based on user preferences. The project includes exploratory data analysis (EDA), model training, and evaluation. Tools used include Python, Pandas, Scikit-learn, and Tableau. Future improvements include adding collaborative filtering and advanced machine learning techniques for better recommendations.
